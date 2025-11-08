@@ -4,4 +4,8 @@ site_dir: docs
 nav:
   - Home: index.md
   - About: about.md
-theme: material
+theme:
+  name: material
+  custom_dir: src/overrides
+  logo: assets/images/favicon.png
+  favicon: assets/images/favicon.png
